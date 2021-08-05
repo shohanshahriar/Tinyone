@@ -1,0 +1,36 @@
+/*common css*/
+@font-face{
+	font-family: 'PT_Sans',sans-serif;
+}
+body{
+	font-family: 'PT_Sans',sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color: #010101 ;
+}
+/*common css*/
+/*header start*/
+header{
+	background-color:#fcdb00 ;
+	padding: 20px 0;
+}
+.c_nav{}
+.menu{}
+.menu ul{}
+.menu ul li{}
+.menu ul li a{
+	font-size: 18px;
+	font-weight: 700 !important;
+	color: #010101 !important;
+	padding: 0 45px !important;
+}
+.menu ul li:last-child a{
+	padding-right: 0 !important;
+}
+.menu ul li a:hover{
+	color: white !important;
+}
+/*header end*/
+.slider{
+	background-color: #fcdb00;
+}
